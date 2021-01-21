@@ -15,9 +15,10 @@ public class Class {
 		System.out.println(e);
 		System.out.println(f);
 System.out.println("done");
-System.out.println(d);
-System.out.println("basics");
+System.out.println("coder");
+System.out.println(d);System.out.println("basics");
 System.out.println("venfiled");
+
 
 	}
 
