@@ -16,6 +16,8 @@ public class Class {
 		System.out.println(f);
 System.out.println("done");
 System.out.println(d);
+System.out.println("basics");
+System.out.println("venfiled");
 
 	}
 
